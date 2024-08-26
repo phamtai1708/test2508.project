@@ -1,0 +1,2 @@
+const apiKeyData = {};
+export { apiKeyData };
